@@ -65,8 +65,8 @@ func main() {
 
 			Nombre = ""
 			go R()
-			go A()
 			go I()
+			go A()
 			go A()
 			go N()
 			go A()
